@@ -1,0 +1,7 @@
+version: "1.0"
+specification:
+    name: s3
+    summary: An S3 source and destination plugin for Conduit, written in Go.
+    description: ""
+    version: v0.7.0-34-g3ee9d47-dirty
+    author: Meroxa, Inc.
